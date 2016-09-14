@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Duan Yichen
+=======
+Yang Suwei
+=======
+Ong Ka-Shing
+>>>>>>> 9697647ffa7442c71f2d6d58faa28129b33b9e42
